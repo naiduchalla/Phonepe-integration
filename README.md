@@ -1,3 +1,9 @@
+#PhonePe integration in React JS
+
+![phonepe](https://github.com/naiduchalla/Phonepe-integration/blob/main/images/maxresdefault%20(2).jpg)
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
